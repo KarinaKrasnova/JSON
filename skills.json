@@ -1,0 +1,10 @@
+{
+"skills": {
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D { 
+"BasicQAconcepts": {
+[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C: "Testing principles, testing process, testing mindset, test levels, test types",
+"BasicProgrammingKnowledge":"Programming logic and basic knowledg[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[JS and Python",
+"BasicDatabaseKnowledge": "SQL commands",
+"TestTechniques": "Black-box techniques, white-box techniques, exploratory testing, testing heuristics",
+"TestTools": "Test case management tools, bug trackers, DevTools, ect."}
+}
