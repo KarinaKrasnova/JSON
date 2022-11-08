@@ -1,0 +1,19 @@
+{
+  "idNumber": "#111",
+  "name": "CART - Unable to add new item to my cart",
+  "reporter": "Karyna",
+  "summary": "When my cart contains one item, I am unable to add a second item via the add to card button on a product page",
+  "url": "www.example.com/product/abc",
+  "enviroment": {
+    "operation": "Windows",
+    "browser": "Chrome 107" }
+  "str": "1.to add one item to cart; 2. to go to product abc via the search bar; 3. to add new item to cart via 'add to cart' button; 4. to go to cart",
+  "ex": "The cart contains 2 items",
+  "at": "The cart contains only 1 item",
+  "description": "none",
+  "screenshot": "www.example.com/screenshot111",
+  "severity": "Major",
+  "priority": "High"
+}
+  
+  
